@@ -158,3 +158,23 @@ C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\Logi
 C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\refint\Logica.dll
 C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\Logica.pdb
 C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\ref\Logica.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\Logica.sourcelink.json
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\Logica.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\refint\Logica.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\Logica.pdb
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Logica\bin\Debug\net8.0\Logica.deps.json
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Logica\bin\Debug\net8.0\Logica.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Logica\bin\Debug\net8.0\Logica.pdb
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Logica\bin\Debug\net8.0\Datos.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Logica\bin\Debug\net8.0\Servicios.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Logica\bin\Debug\net8.0\Sesion.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Logica\bin\Debug\net8.0\Datos.pdb
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Logica\bin\Debug\net8.0\Servicios.pdb
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Logica\bin\Debug\net8.0\Sesion.pdb
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\ref\Logica.dll

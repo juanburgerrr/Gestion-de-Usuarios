@@ -142,3 +142,15 @@ C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\S
 C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\refint\Servicios.dll
 C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\Servicios.pdb
 C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\ref\Servicios.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Servicios\bin\Debug\net8.0\Servicios.deps.json
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Servicios\bin\Debug\net8.0\Servicios.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Servicios\bin\Debug\net8.0\Servicios.pdb
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfo.cs
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\Servicios.sourcelink.json
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\Servicios.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\refint\Servicios.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\Servicios.pdb
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\ref\Servicios.dll

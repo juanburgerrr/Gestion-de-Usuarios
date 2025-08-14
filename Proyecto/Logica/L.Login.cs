@@ -12,17 +12,17 @@ namespace Logica.Login
     public class LLogin
     {
         private readonly Datos.Login.DSP_ValidarLogin _login;
-        private readonly Encriptacion _encriptar;
+//        private readonly Encriptacion _encriptar;
         public LLogin()
         {
             _login = new Datos.Login.DSP_ValidarLogin();
-            _encriptar = new Encriptacion();
+  //          _encriptar = new Encriptacion();
         }
         public (string? estado, int? idUsuario) Validar(string usuario, string password)
         {
 
-            string passwordHash = _encriptar.Encriptar(usuario + password);
-            return _login.ValidarLogin(usuario, passwordHash);
+    //        string passwordHash = _encriptar.Encriptar(usuario + password);
+            return _login.ValidarLogin(usuario, password);
         }
 
     }
