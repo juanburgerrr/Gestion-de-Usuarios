@@ -1,0 +1,144 @@
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\bin\Debug\net8.0\Servicios.deps.json
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\bin\Debug\net8.0\Servicios.dll
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\bin\Debug\net8.0\Servicios.pdb
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfo.cs
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.sourcelink.json
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.dll
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\refint\Servicios.dll
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.pdb
+C:\Users\jonin\Documentos\GitHub\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\ref\Servicios.dll
+C:\Users\jonin\Escritorio\RESPALDO Proyecto - copia\Proyecto-Anual\Proyecto\Servicios\bin\Debug\net8.0\Servicios.deps.json
+C:\Users\jonin\Escritorio\RESPALDO Proyecto - copia\Proyecto-Anual\Proyecto\Servicios\bin\Debug\net8.0\Servicios.dll
+C:\Users\jonin\Escritorio\RESPALDO Proyecto - copia\Proyecto-Anual\Proyecto\Servicios\bin\Debug\net8.0\Servicios.pdb
+C:\Users\jonin\Escritorio\RESPALDO Proyecto - copia\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonin\Escritorio\RESPALDO Proyecto - copia\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\jonin\Escritorio\RESPALDO Proyecto - copia\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfo.cs
+C:\Users\jonin\Escritorio\RESPALDO Proyecto - copia\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\jonin\Escritorio\RESPALDO Proyecto - copia\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.sourcelink.json
+C:\Users\jonin\Escritorio\RESPALDO Proyecto - copia\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.dll
+C:\Users\jonin\Escritorio\RESPALDO Proyecto - copia\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\refint\Servicios.dll
+C:\Users\jonin\Escritorio\RESPALDO Proyecto - copia\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\Servicios.pdb
+C:\Users\jonin\Escritorio\RESPALDO Proyecto - copia\Proyecto-Anual\Proyecto\Servicios\obj\Debug\net8.0\ref\Servicios.dll
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.deps.json
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.dll
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.pdb
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfo.cs
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.sourcelink.json
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.dll
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\refint\Servicios.dll
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.pdb
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\ref\Servicios.dll
+C:\Users\jonin\Documentos\GitHub\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.deps.json
+C:\Users\jonin\Documentos\GitHub\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.dll
+C:\Users\jonin\Documentos\GitHub\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.pdb
+C:\Users\jonin\Documentos\GitHub\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonin\Documentos\GitHub\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\jonin\Documentos\GitHub\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfo.cs
+C:\Users\jonin\Documentos\GitHub\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\jonin\Documentos\GitHub\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.sourcelink.json
+C:\Users\jonin\Documentos\GitHub\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.dll
+C:\Users\jonin\Documentos\GitHub\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\refint\Servicios.dll
+C:\Users\jonin\Documentos\GitHub\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.pdb
+C:\Users\jonin\Documentos\GitHub\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\ref\Servicios.dll
+C:\Users\jonin\Escritorio\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.deps.json
+C:\Users\jonin\Escritorio\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.dll
+C:\Users\jonin\Escritorio\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.pdb
+C:\Users\jonin\Escritorio\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonin\Escritorio\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\jonin\Escritorio\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfo.cs
+C:\Users\jonin\Escritorio\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\jonin\Escritorio\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.sourcelink.json
+C:\Users\jonin\Escritorio\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.dll
+C:\Users\jonin\Escritorio\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\refint\Servicios.dll
+C:\Users\jonin\Escritorio\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.pdb
+C:\Users\jonin\Escritorio\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\ref\Servicios.dll
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.deps.json
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.dll
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.pdb
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfo.cs
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.sourcelink.json
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.dll
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\refint\Servicios.dll
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.pdb
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\ref\Servicios.dll
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.deps.json
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.dll
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.pdb
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfo.cs
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.sourcelink.json
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.dll
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\refint\Servicios.dll
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.pdb
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\ref\Servicios.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.deps.json
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.pdb
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfo.cs
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.sourcelink.json
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\refint\Servicios.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.pdb
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\ref\Servicios.dll
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.deps.json
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.dll
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.pdb
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfo.cs
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.sourcelink.json
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.dll
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\refint\Servicios.dll
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.pdb
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\ref\Servicios.dll
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.deps.json
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.dll
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.pdb
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfo.cs
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.sourcelink.json
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.dll
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\refint\Servicios.dll
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.pdb
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\ref\Servicios.dll
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.deps.json
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.dll
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\bin\Debug\net8.0\Servicios.pdb
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfo.cs
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.sourcelink.json
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.dll
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\refint\Servicios.dll
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\Servicios.pdb
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Servicios\obj\Debug\net8.0\ref\Servicios.dll
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Servicios\bin\Debug\net8.0\Servicios.deps.json
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Servicios\bin\Debug\net8.0\Servicios.dll
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Servicios\bin\Debug\net8.0\Servicios.pdb
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfo.cs
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\Servicios.sourcelink.json
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\Servicios.dll
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\refint\Servicios.dll
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\Servicios.pdb
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Servicios\obj\Debug\net8.0\ref\Servicios.dll

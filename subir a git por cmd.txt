@@ -1,0 +1,21 @@
+git init
+-REPOSITORIO INCIADO O REINICIALIZADO 
+git add .  
+-el punto añade todos los cambios hechos. (si queres ver los cambios que estan hechos -git status)
+git commit -m "mensaje"
+-mensaje del commit
+git push
+-subir al repositorio 
+
+SI NO TE DEJA CON ESTOS COMANDOS ES PORQUE HAY CAMBIOS EN EL REPOSITORIO QUE AFECTAN EN LO QUE CAMBIASTE
+
+entonces:
+
+git pull origin main
+-traes el repositorio y fusionas el codigo
+git push origin main
+-subis al repositorio con los codigos fusionados sin sobreescribir el remoto
+
+si no te deja con ese push tampoco:
+git push -f origin main
+-forzas el push sobreescribiendo el remoto(solo hacerlo si no hay commits prehechos, ya que pueden borrarse)

@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="PersonalLogica.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Datos\Datos.csproj" />
+    <ProjectReference Include="..\Servicios\Servicios.csproj" />
+    <ProjectReference Include="..\Sesion\Sesion.csproj" />
+  </ItemGroup>
+
+</Project>

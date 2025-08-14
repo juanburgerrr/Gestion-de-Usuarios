@@ -1,0 +1,128 @@
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.deps.json
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.dll
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.pdb
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Sesion.dll
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Sesion.pdb
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.AssemblyReference.cache
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.AssemblyInfoInputs.cache
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.AssemblyInfo.cs
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.sourcelink.json
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.Up2Date
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.dll
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\refint\Datos.dll
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.pdb
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\ref\Datos.dll
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.deps.json
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.dll
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.pdb
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Sesion.dll
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Sesion.pdb
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.AssemblyReference.cache
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.AssemblyInfoInputs.cache
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.AssemblyInfo.cs
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.sourcelink.json
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.Up2Date
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.dll
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\refint\Datos.dll
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.pdb
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\ref\Datos.dll
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.deps.json
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.dll
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.pdb
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Sesion.dll
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Sesion.pdb
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.AssemblyReference.cache
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.AssemblyInfoInputs.cache
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.AssemblyInfo.cs
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.sourcelink.json
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.Up2Date
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.dll
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\refint\Datos.dll
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.pdb
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\ref\Datos.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.deps.json
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.pdb
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Sesion.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Sesion.pdb
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.AssemblyReference.cache
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.AssemblyInfo.cs
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.sourcelink.json
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.Up2Date
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\refint\Datos.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.pdb
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\ref\Datos.dll
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.deps.json
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.dll
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.pdb
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Sesion.dll
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Sesion.pdb
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.AssemblyReference.cache
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.AssemblyInfo.cs
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.sourcelink.json
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.Up2Date
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.dll
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\refint\Datos.dll
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.pdb
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\ref\Datos.dll
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.deps.json
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.dll
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.pdb
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Sesion.dll
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Sesion.pdb
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.AssemblyReference.cache
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.AssemblyInfoInputs.cache
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.AssemblyInfo.cs
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.sourcelink.json
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.Up2Date
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.dll
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\refint\Datos.dll
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.pdb
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\ref\Datos.dll
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.deps.json
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.dll
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Datos.pdb
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Sesion.dll
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\bin\Debug\net8.0\Sesion.pdb
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.AssemblyReference.cache
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.AssemblyInfo.cs
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.sourcelink.json
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.Up2Date
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.dll
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\refint\Datos.dll
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\Datos.pdb
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Datos\obj\Debug\net8.0\ref\Datos.dll
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Datos\bin\Debug\net8.0\Datos.deps.json
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Datos\bin\Debug\net8.0\Datos.dll
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Datos\bin\Debug\net8.0\Datos.pdb
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Datos\bin\Debug\net8.0\Sesion.dll
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Datos\bin\Debug\net8.0\Sesion.pdb
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.AssemblyReference.cache
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Datos\obj\Debug\net8.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Datos\obj\Debug\net8.0\Datos.AssemblyInfoInputs.cache
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Datos\obj\Debug\net8.0\Datos.AssemblyInfo.cs
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Datos\obj\Debug\net8.0\Datos.sourcelink.json
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Datos\obj\Debug\net8.0\Datos.csproj.Up2Date
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Datos\obj\Debug\net8.0\Datos.dll
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Datos\obj\Debug\net8.0\refint\Datos.dll
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Datos\obj\Debug\net8.0\Datos.pdb
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Datos\obj\Debug\net8.0\ref\Datos.dll

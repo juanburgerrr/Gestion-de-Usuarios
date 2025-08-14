@@ -1,0 +1,160 @@
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.deps.json
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.dll
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.pdb
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Datos.dll
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Servicios.dll
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Sesion.dll
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Datos.pdb
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Servicios.pdb
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Sesion.pdb
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.sourcelink.json
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.dll
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\refint\Logica.dll
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.pdb
+C:\Users\jonin\Escritorio\subir esto al git - copia\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\ref\Logica.dll
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.deps.json
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.dll
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.pdb
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Datos.dll
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Servicios.dll
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Sesion.dll
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Datos.pdb
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Servicios.pdb
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Sesion.pdb
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.sourcelink.json
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.dll
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\refint\Logica.dll
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.pdb
+C:\Users\jonin\Escritorio\Trabajo aca\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\ref\Logica.dll
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.deps.json
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.dll
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.pdb
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Datos.dll
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Servicios.dll
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Sesion.dll
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Datos.pdb
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Servicios.pdb
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Sesion.pdb
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.sourcelink.json
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.dll
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\refint\Logica.dll
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.pdb
+C:\Users\juanf\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\ref\Logica.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.deps.json
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.pdb
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Datos.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Servicios.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Sesion.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Datos.pdb
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Servicios.pdb
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Sesion.pdb
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.sourcelink.json
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\refint\Logica.dll
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.pdb
+C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\ref\Logica.dll
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.deps.json
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.dll
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.pdb
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Datos.dll
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Servicios.dll
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Sesion.dll
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Datos.pdb
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Servicios.pdb
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Sesion.pdb
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.sourcelink.json
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.dll
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\refint\Logica.dll
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.pdb
+C:\Users\Mercedes\Desktop\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\ref\Logica.dll
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.deps.json
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.dll
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.pdb
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Datos.dll
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Servicios.dll
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Sesion.dll
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Datos.pdb
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Servicios.pdb
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Sesion.pdb
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.sourcelink.json
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.dll
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\refint\Logica.dll
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.pdb
+C:\Users\juanf\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\ref\Logica.dll
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.deps.json
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.dll
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Logica.pdb
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Datos.dll
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Servicios.dll
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Sesion.dll
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Datos.pdb
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Servicios.pdb
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\bin\Debug\net8.0\Sesion.pdb
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.sourcelink.json
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.dll
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\refint\Logica.dll
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\Logica.pdb
+C:\Users\Lorenzo\Desktop\Nueva carpeta\Proyecto-C-\Proyecto\Logica\obj\Debug\net8.0\ref\Logica.dll
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\bin\Debug\net8.0\Logica.deps.json
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\bin\Debug\net8.0\Logica.dll
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\bin\Debug\net8.0\Logica.pdb
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\bin\Debug\net8.0\Datos.dll
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\bin\Debug\net8.0\Servicios.dll
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\bin\Debug\net8.0\Sesion.dll
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\bin\Debug\net8.0\Datos.pdb
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\bin\Debug\net8.0\Servicios.pdb
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\bin\Debug\net8.0\Sesion.pdb
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\Logica.sourcelink.json
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\Logica.dll
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\refint\Logica.dll
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\Logica.pdb
+C:\Users\juanf\Desktop\Gestion-de-Usuarios\Proyecto\Logica\obj\Debug\net8.0\ref\Logica.dll
