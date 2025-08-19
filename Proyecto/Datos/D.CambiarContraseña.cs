@@ -1,58 +1,45 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Datos.Conexion;
 using Microsoft.Data.SqlClient;
+using Datos.Conexion;
 
-namespace Datos.CambiarContraseña
+namespace Datos
 {
-    public class SP_CambiarContraseña
+    public class D_CambiarContra
     {
-        private readonly Conexion.Conexion conexion = new();
+        private Conexion.Conexion conexion = new Conexion.Conexion();
 
-        public string CambiarContrasena(int idUsuario, string nuevaPass)
+        public D_CambiarContra()
         {
-            string resultadoEstado = "ERROR_DESCONOCIDO";
-            SqlConnection con = null;
+            conexion = new Conexion();
+        }
+
+        public string CambiarContra(int idUsuario, string nuevaPass)
+        {
+            string estado = string.Empty;
+            SqlConnection conn = _conexion.AbrirConexion();
 
             try
             {
-                con = conexion.AbrirConexion();
-                using (SqlCommand cmd = new SqlCommand("SP_CambiarContraseña", con))
-                {
-                    cmd.CommandType = CommandType.StoredProcedure;
-                    cmd.Parameters.AddWithValue("@idUsuario", idUsuario);
-                    cmd.Parameters.AddWithValue("@nuevaPass", nuevaPass);
+                SqlCommand cmd = new SqlCommand("SP_CambiarContraseña", conn);
+                cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@idUsuario", idUsuario);
+                cmd.Parameters.AddWithValue("@nuevaPass", nuevaPass);
 
-                    SqlDataReader lector = cmd.ExecuteReader();
-                    if (lector.Read())
-                    {
-                        resultadoEstado = lector["Estado"]?.ToString() ?? "ERROR_DESCONOCIDO";
-                    }
-                    lector.Close();
-                }
-            }
-            catch (SqlException ex)
-            {
-                Console.WriteLine("Error SQL al cambiar contraseña: " + ex.Message);
-                resultadoEstado = "ERROR_SQL: " + ex.Message;
+                
+                var result = cmd.ExecuteScalar();
+                if (result != null)
+                    estado = result.ToString();
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Error general al cambiar contraseña: " + ex.Message);
-                resultadoEstado = "ERROR_GENERAL: " + ex.Message;
+                estado = "ERROR_" + ex.Message;
             }
             finally
             {
-                if (con != null)
-                {
-                    conexion.CerrarConexion();
-                }
+                _conexion.CerrarConexion();
             }
-            return resultadoEstado;
+
+            return estado;
         }
     }
 }

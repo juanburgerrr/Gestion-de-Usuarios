@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Servicios\\Servicios.csproj",
+      "projectUniqueName": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Servicios\\Servicios.csproj",
       "projectName": "Servicios",
-      "projectPath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Servicios\\Servicios.csproj",
+      "projectPath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Servicios\\Servicios.csproj",
       "packagesPath": "C:\\Users\\Mercedes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Servicios\\obj\\",
+      "outputPath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Servicios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

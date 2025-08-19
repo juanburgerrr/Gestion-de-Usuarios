@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BvNc55wWgeQ=",
+  "dgSpecHash": "+qoC1/E62P8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\Datos.csproj",
+  "projectFilePath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\Datos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mercedes\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Mercedes\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

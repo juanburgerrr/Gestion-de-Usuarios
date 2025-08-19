@@ -1,200 +1,196 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\",
+  "WorkspaceRootPath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\proyecto\\loginprimeravez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\loginprimeravez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\logica\\l.login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\l.login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\datos\\d.conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\logica\\l.permisosasignar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\l.permisosasignar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\logica\\l.restricciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\l.restricciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\logica\\l.cambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\l.cambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\proyecto\\loginprimeravez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\loginprimeravez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\proyecto\\restricciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\restricciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\datos\\d.restricciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.restricciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\datos\\d.permisoobtener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.permisoobtener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\proyecto\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\logica\\l.permisosobtener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\l.permisosobtener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01FB291A-363B-9D07-194F-983C4B2DD2D1}|Sesion\\Sesion.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\sesion\\s.usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01FB291A-363B-9D07-194F-983C4B2DD2D1}|Sesion\\Sesion.csproj|solutionrelative:sesion\\s.usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\datos\\d.permisosasignar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.permisosasignar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\logica\\l.codigopostal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\l.codigopostal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\proyecto\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\logica\\l.registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\l.registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\proyecto\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\datos\\d.registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\datos\\d.obtenerroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.obtenerroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\servicios\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\servicios\\codigosrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\codigosrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\logica\\l.usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\l.usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\datos\\d.preguntasseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.preguntasseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\datos\\d.obtenergeneros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.obtenergeneros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\datos\\d.obtenertipodoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.obtenertipodoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\proyecto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\proyecto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\logica\\l.datoscbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\l.datoscbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\logica\\datosdomicilio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\datosdomicilio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\datos\\d.codpostal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.codpostal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\datos\\d.cambiarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\datos\\d.cambiarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.cambiarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\proyecto\\themecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\themecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\datos\\d.legajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.legajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\datos\\d.usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\datos\\d.usuariodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.usuariodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\datos\\d.validarlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\datos\\d.validarlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.validarlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\logica\\l.preguntasseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\l.preguntasseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\proyecto\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\proyecto\\cambiarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\proyecto\\cambiarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\cambiarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\proyecto\\cambiarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\logica\\l.cambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\l.cambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\datos\\d.restricciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.restricciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\datos\\d.conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\proyecto\\cambiarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\cambiarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\proyecto\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\logica\\l.login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\l.login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\logica\\l.permisosasignar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\l.permisosasignar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\logica\\l.restricciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\l.restricciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\proyecto\\loginprimeravez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\loginprimeravez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\proyecto\\restricciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\restricciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\datos\\d.permisoobtener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.permisoobtener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\proyecto\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\logica\\l.permisosobtener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\l.permisosobtener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FB291A-363B-9D07-194F-983C4B2DD2D1}|Sesion\\Sesion.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\sesion\\s.usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FB291A-363B-9D07-194F-983C4B2DD2D1}|Sesion\\Sesion.csproj|solutionrelative:sesion\\s.usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\datos\\d.permisosasignar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.permisosasignar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\logica\\l.codigopostal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\l.codigopostal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\proyecto\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\logica\\l.registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\l.registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\proyecto\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\datos\\d.registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\datos\\d.obtenerroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.obtenerroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\servicios\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\servicios\\codigosrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\codigosrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\logica\\l.usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\l.usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\datos\\d.preguntasseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.preguntasseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\datos\\d.obtenergeneros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.obtenergeneros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\datos\\d.obtenertipodoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.obtenertipodoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\proyecto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\proyecto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\logica\\l.datoscbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\l.datoscbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\logica\\datosdomicilio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\datosdomicilio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\datos\\d.codpostal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.codpostal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\proyecto\\themecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\themecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\datos\\d.legajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.legajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\datos\\d.usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\datos\\d.usuariodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB35B401-4EF4-989E-18E9-C126B008FEAB}|Datos\\Datos.csproj|solutionrelative:datos\\d.usuariodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\logica\\l.preguntasseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B9EA76-99FC-8024-2ABD-78879E8E2199}|Logica\\Logica.csproj|solutionrelative:logica\\l.preguntasseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\proyecto\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\proyecto\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\proyecto\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\proyecto\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\proyecto\\cambiarpreguntaseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\proyecto\\cambiarpreguntaseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\cambiarpreguntaseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\proyecto\\recuperarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\proyecto\\recuperarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\recuperarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\nueva carpeta (2)\\gestion-de-usuarios\\proyecto\\proyecto\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|c:\\users\\mercedes\\desktop\\repo\\gestion-de-usuarios\\proyecto\\proyecto\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65ABA6C5-52C4-41F8-9D73-330CA59BD3D9}|Proyecto\\Vista.csproj|solutionrelative:proyecto\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\PersonalLogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\PersonalLogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Logica\\PersonalLogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -205,7 +201,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -217,102 +213,149 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "L.Restricciones.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.Restricciones.cs",
-              "RelativeDocumentMoniker": "Logica\\L.Restricciones.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.Restricciones.cs",
-              "RelativeToolTip": "Logica\\L.Restricciones.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "D.CambiarContrase\u00F1a.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.CambiarContrase\u00F1a.cs",
+              "RelativeDocumentMoniker": "Datos\\D.CambiarContrase\u00F1a.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.CambiarContrase\u00F1a.cs",
+              "RelativeToolTip": "Datos\\D.CambiarContrase\u00F1a.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T16:42:51.861Z",
+              "WhenOpened": "2025-07-31T21:40:35.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "D.ValidarLog.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.ValidarLog.cs",
+              "RelativeDocumentMoniker": "Datos\\D.ValidarLog.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.ValidarLog.cs",
+              "RelativeToolTip": "Datos\\D.ValidarLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T02:58:56.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "L.CambiarContra.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.CambiarContra.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.CambiarContra.cs",
               "RelativeDocumentMoniker": "Logica\\L.CambiarContra.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.CambiarContra.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.CambiarContra.cs",
               "RelativeToolTip": "Logica\\L.CambiarContra.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-31T21:38:21.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "L.PermisosAsignar.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.PermisosAsignar.cs",
-              "RelativeDocumentMoniker": "Logica\\L.PermisosAsignar.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.PermisosAsignar.cs",
-              "RelativeToolTip": "Logica\\L.PermisosAsignar.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAtwBQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CambiarContrase\u00F1a.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\CambiarContrase\u00F1a.cs",
+              "RelativeDocumentMoniker": "Proyecto\\CambiarContrase\u00F1a.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\CambiarContrase\u00F1a.cs",
+              "RelativeToolTip": "Proyecto\\CambiarContrase\u00F1a.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwBgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T16:28:37.635Z",
+              "WhenOpened": "2025-08-02T19:09:22.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "D.Restricciones.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.Restricciones.cs",
+              "RelativeDocumentMoniker": "Datos\\D.Restricciones.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.Restricciones.cs",
+              "RelativeToolTip": "Datos\\D.Restricciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T16:42:09.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "D.Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.Conexion.cs",
               "RelativeDocumentMoniker": "Datos\\D.Conexion.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.Conexion.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.Conexion.cs",
               "RelativeToolTip": "Datos\\D.Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-04T16:17:53.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Program.cs",
-              "RelativeDocumentMoniker": "Proyecto\\Program.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Program.cs",
-              "RelativeToolTip": "Proyecto\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBUAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "CambiarContrase\u00F1a.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\CambiarContrase\u00F1a.cs",
+              "RelativeDocumentMoniker": "Proyecto\\CambiarContrase\u00F1a.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\CambiarContrase\u00F1a.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto\\CambiarContrase\u00F1a.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T03:42:18.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T18:14:25.608Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginPrimeraVez.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\LoginPrimeraVez.cs",
-              "RelativeDocumentMoniker": "Proyecto\\LoginPrimeraVez.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\LoginPrimeraVez.cs",
-              "RelativeToolTip": "Proyecto\\LoginPrimeraVez.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "L.Restricciones.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.Restricciones.cs",
+              "RelativeDocumentMoniker": "Logica\\L.Restricciones.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.Restricciones.cs",
+              "RelativeToolTip": "Logica\\L.Restricciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T18:06:02.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "L.Login.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.Login.cs",
-              "RelativeDocumentMoniker": "Logica\\L.Login.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.Login.cs",
-              "RelativeToolTip": "Logica\\L.Login.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T18:33:31.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T16:42:51.861Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Program.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Program.cs",
+              "RelativeToolTip": "Proyecto\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:42:18.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "L.PermisosAsignar.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.PermisosAsignar.cs",
+              "RelativeDocumentMoniker": "Logica\\L.PermisosAsignar.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.PermisosAsignar.cs",
+              "RelativeToolTip": "Logica\\L.PermisosAsignar.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T16:28:37.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "L.Login.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.Login.cs",
+              "RelativeDocumentMoniker": "Logica\\L.Login.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.Login.cs",
+              "RelativeToolTip": "Logica\\L.Login.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:33:31.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "LoginPrimeraVez.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\LoginPrimeraVez.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\LoginPrimeraVez.cs",
               "RelativeDocumentMoniker": "Proyecto\\LoginPrimeraVez.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\LoginPrimeraVez.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\LoginPrimeraVez.cs [Dise\u00F1o]",
               "RelativeToolTip": "Proyecto\\LoginPrimeraVez.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T18:05:54.414Z",
@@ -320,102 +363,83 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Restricciones.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Restricciones.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Restricciones.cs",
               "RelativeDocumentMoniker": "Proyecto\\Restricciones.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Restricciones.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Restricciones.cs",
               "RelativeToolTip": "Proyecto\\Restricciones.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T16:46:50.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "D.Restricciones.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.Restricciones.cs",
-              "RelativeDocumentMoniker": "Datos\\D.Restricciones.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.Restricciones.cs",
-              "RelativeToolTip": "Datos\\D.Restricciones.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA0wDIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T16:42:09.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "D.PermisoObtener.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.PermisoObtener.cs",
-              "RelativeDocumentMoniker": "Datos\\D.PermisoObtener.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.PermisoObtener.cs",
-              "RelativeToolTip": "Datos\\D.PermisoObtener.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowBsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T16:15:47.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Permisos.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Permisos.cs",
-              "RelativeDocumentMoniker": "Proyecto\\Permisos.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Permisos.cs",
-              "RelativeToolTip": "Proyecto\\Permisos.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T16:29:16.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "L.PermisosObtener.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.PermisosObtener.cs",
-              "RelativeDocumentMoniker": "Logica\\L.PermisosObtener.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.PermisosObtener.cs",
-              "RelativeToolTip": "Logica\\L.PermisosObtener.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T16:28:11.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "D.PermisosAsignar.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.PermisosAsignar.cs",
-              "RelativeDocumentMoniker": "Datos\\D.PermisosAsignar.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.PermisosAsignar.cs",
-              "RelativeToolTip": "Datos\\D.PermisosAsignar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T16:17:04.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T16:46:50.018Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "S.Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Sesion\\S.Usuario.cs",
-              "RelativeDocumentMoniker": "Sesion\\S.Usuario.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Sesion\\S.Usuario.cs",
-              "RelativeToolTip": "Sesion\\S.Usuario.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAgAAAA3AAAAAAAAAA==",
+              "Title": "D.PermisoObtener.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.PermisoObtener.cs",
+              "RelativeDocumentMoniker": "Datos\\D.PermisoObtener.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.PermisoObtener.cs",
+              "RelativeToolTip": "Datos\\D.PermisoObtener.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T19:19:43.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T16:15:47.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 14,
+              "Title": "Permisos.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Permisos.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Permisos.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Permisos.cs",
+              "RelativeToolTip": "Proyecto\\Permisos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T16:29:16.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "L.PermisosObtener.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.PermisosObtener.cs",
+              "RelativeDocumentMoniker": "Logica\\L.PermisosObtener.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.PermisosObtener.cs",
+              "RelativeToolTip": "Logica\\L.PermisosObtener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T16:28:11.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "D.PermisosAsignar.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.PermisosAsignar.cs",
+              "RelativeDocumentMoniker": "Datos\\D.PermisosAsignar.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.PermisosAsignar.cs",
+              "RelativeToolTip": "Datos\\D.PermisosAsignar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T16:17:04.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "S.Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Sesion\\S.Usuario.cs",
+              "RelativeDocumentMoniker": "Sesion\\S.Usuario.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Sesion\\S.Usuario.cs",
+              "RelativeToolTip": "Sesion\\S.Usuario.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T19:19:43.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "D.Registro.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.Registro.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.Registro.cs",
               "RelativeDocumentMoniker": "Datos\\D.Registro.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.Registro.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.Registro.cs",
               "RelativeToolTip": "Datos\\D.Registro.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAuwEkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -423,11 +447,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Register.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Register.cs",
               "RelativeDocumentMoniker": "Proyecto\\Register.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Register.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Register.cs",
               "RelativeToolTip": "Proyecto\\Register.cs",
               "ViewState": "AgIAALMAAAAAAAAAAAAmwMIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -436,11 +460,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "D.ObtenerTipoDoc.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.ObtenerTipoDoc.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.ObtenerTipoDoc.cs",
               "RelativeDocumentMoniker": "Datos\\D.ObtenerTipoDoc.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.ObtenerTipoDoc.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.ObtenerTipoDoc.cs",
               "RelativeToolTip": "Datos\\D.ObtenerTipoDoc.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -448,11 +472,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "L.CodigoPostal.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.CodigoPostal.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.CodigoPostal.cs",
               "RelativeDocumentMoniker": "Logica\\L.CodigoPostal.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.CodigoPostal.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.CodigoPostal.cs",
               "RelativeToolTip": "Logica\\L.CodigoPostal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -460,11 +484,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "L.Registro.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.Registro.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.Registro.cs",
               "RelativeDocumentMoniker": "Logica\\L.Registro.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.Registro.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.Registro.cs",
               "RelativeToolTip": "Logica\\L.Registro.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAuwBIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -472,11 +496,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Register.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Register.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Register.cs",
               "RelativeDocumentMoniker": "Proyecto\\Register.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Register.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Register.cs [Dise\u00F1o]",
               "RelativeToolTip": "Proyecto\\Register.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T15:55:09.213Z",
@@ -484,11 +508,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Servicios\\EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Servicios\\EmailService.cs",
               "RelativeDocumentMoniker": "Servicios\\EmailService.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Servicios\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Servicios\\EmailService.cs",
               "RelativeToolTip": "Servicios\\EmailService.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAuwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -496,11 +520,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "L.Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.Usuario.cs",
               "RelativeDocumentMoniker": "Logica\\L.Usuario.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.Usuario.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.Usuario.cs",
               "RelativeToolTip": "Logica\\L.Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -508,11 +532,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "D.ObtenerRoles.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.ObtenerRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.ObtenerRoles.cs",
               "RelativeDocumentMoniker": "Datos\\D.ObtenerRoles.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.ObtenerRoles.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.ObtenerRoles.cs",
               "RelativeToolTip": "Datos\\D.ObtenerRoles.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -520,11 +544,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "CodigosRandom.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Servicios\\CodigosRandom.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Servicios\\CodigosRandom.cs",
               "RelativeDocumentMoniker": "Servicios\\CodigosRandom.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Servicios\\CodigosRandom.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Servicios\\CodigosRandom.cs",
               "RelativeToolTip": "Servicios\\CodigosRandom.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAuwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -532,11 +556,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "D.PreguntasSeguridad.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.PreguntasSeguridad.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.PreguntasSeguridad.cs",
               "RelativeDocumentMoniker": "Datos\\D.PreguntasSeguridad.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.PreguntasSeguridad.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.PreguntasSeguridad.cs",
               "RelativeToolTip": "Datos\\D.PreguntasSeguridad.cs",
               "ViewState": "AgIAAFkAAAAAAAAAAAAYwHcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -544,11 +568,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "D.ObtenerGeneros.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.ObtenerGeneros.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.ObtenerGeneros.cs",
               "RelativeDocumentMoniker": "Datos\\D.ObtenerGeneros.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.ObtenerGeneros.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.ObtenerGeneros.cs",
               "RelativeToolTip": "Datos\\D.ObtenerGeneros.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -556,9 +580,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "Login.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Login.cs",
               "RelativeDocumentMoniker": "Proyecto\\Login.cs",
               "ToolTip": "C:\\Users\\Lorenzo\\Desktop\\Nueva carpeta\\Proyecto-C-\\Proyecto\\Proyecto\\Login.cs [Dise\u00F1o]",
               "RelativeToolTip": "..\\..\\..\\..\\..\\Lorenzo\\Desktop\\Nueva carpeta\\Proyecto-C-\\Proyecto\\Proyecto\\Login.cs [Dise\u00F1o]",
@@ -567,11 +591,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Login.cs",
               "RelativeDocumentMoniker": "Proyecto\\Login.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Login.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Login.cs",
               "RelativeToolTip": "Proyecto\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -579,11 +603,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "DatosDomicilio.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\DatosDomicilio.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\DatosDomicilio.cs",
               "RelativeDocumentMoniker": "Logica\\DatosDomicilio.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\DatosDomicilio.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\DatosDomicilio.cs",
               "RelativeToolTip": "Logica\\DatosDomicilio.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -591,11 +615,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "L.DatosCbox.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.DatosCbox.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.DatosCbox.cs",
               "RelativeDocumentMoniker": "Logica\\L.DatosCbox.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.DatosCbox.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.DatosCbox.cs",
               "RelativeToolTip": "Logica\\L.DatosCbox.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -603,11 +627,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "D.CodPostal.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.CodPostal.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.CodPostal.cs",
               "RelativeDocumentMoniker": "Datos\\D.CodPostal.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.CodPostal.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.CodPostal.cs",
               "RelativeToolTip": "Datos\\D.CodPostal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -615,23 +639,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "D.CambiarContrase\u00F1a.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.CambiarContrase\u00F1a.cs",
-              "RelativeDocumentMoniker": "Datos\\D.CambiarContrase\u00F1a.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.CambiarContrase\u00F1a.cs",
-              "RelativeToolTip": "Datos\\D.CambiarContrase\u00F1a.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T21:40:35.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "ThemeColor.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\ThemeColor.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\ThemeColor.cs",
               "RelativeDocumentMoniker": "Proyecto\\ThemeColor.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\ThemeColor.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\ThemeColor.cs",
               "RelativeToolTip": "Proyecto\\ThemeColor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -639,11 +651,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "D.Legajo.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.Legajo.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.Legajo.cs",
               "RelativeDocumentMoniker": "Datos\\D.Legajo.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.Legajo.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.Legajo.cs",
               "RelativeToolTip": "Datos\\D.Legajo.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwBYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -651,11 +663,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "D.UsuarioDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.UsuarioDTO.cs",
               "RelativeDocumentMoniker": "Datos\\D.UsuarioDTO.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.UsuarioDTO.cs",
               "RelativeToolTip": "Datos\\D.UsuarioDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -663,23 +675,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "D.ValidarLog.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.ValidarLog.cs",
-              "RelativeDocumentMoniker": "Datos\\D.ValidarLog.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.ValidarLog.cs",
-              "RelativeToolTip": "Datos\\D.ValidarLog.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T02:58:56.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "D.UsuarioDetalle.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.UsuarioDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.UsuarioDetalle.cs",
               "RelativeDocumentMoniker": "Datos\\D.UsuarioDetalle.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.UsuarioDetalle.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\D.UsuarioDetalle.cs",
               "RelativeToolTip": "Datos\\D.UsuarioDetalle.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAQwD0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -687,11 +687,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "L.PreguntasSeguridad.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.PreguntasSeguridad.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.PreguntasSeguridad.cs",
               "RelativeDocumentMoniker": "Logica\\L.PreguntasSeguridad.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.PreguntasSeguridad.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\L.PreguntasSeguridad.cs",
               "RelativeToolTip": "Logica\\L.PreguntasSeguridad.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -699,11 +699,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "Inicio.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Inicio.cs",
               "RelativeDocumentMoniker": "Proyecto\\Inicio.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Inicio.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Inicio.cs",
               "RelativeToolTip": "Proyecto\\Inicio.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAwwAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -712,9 +712,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 43,
               "Title": "CambiarPreguntaSeguridad.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\CambiarPreguntaSeguridad.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\CambiarPreguntaSeguridad.cs",
               "RelativeDocumentMoniker": "Proyecto\\CambiarPreguntaSeguridad.cs",
               "ToolTip": "C:\\Users\\jonin\\Escritorio\\Trabajo aca\\Proyecto-C-\\Proyecto\\Proyecto\\CambiarPreguntaSeguridad.cs [Dise\u00F1o]",
               "RelativeToolTip": "..\\..\\..\\..\\..\\jonin\\Escritorio\\Trabajo aca\\Proyecto-C-\\Proyecto\\Proyecto\\CambiarPreguntaSeguridad.cs [Dise\u00F1o]",
@@ -723,11 +723,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 41,
               "Title": "Inicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Inicio.cs",
               "RelativeDocumentMoniker": "Proyecto\\Inicio.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Inicio.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Inicio.cs [Dise\u00F1o]",
               "RelativeToolTip": "Proyecto\\Inicio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-02T03:40:24.594Z",
@@ -735,11 +735,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "Inicio.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Inicio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Inicio.Designer.cs",
               "RelativeDocumentMoniker": "Proyecto\\Inicio.Designer.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Inicio.Designer.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Inicio.Designer.cs",
               "RelativeToolTip": "Proyecto\\Inicio.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0BAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -748,34 +748,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "CambiarContrase\u00F1a.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\CambiarContrase\u00F1a.cs",
-              "RelativeDocumentMoniker": "Proyecto\\CambiarContrase\u00F1a.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\CambiarContrase\u00F1a.cs",
-              "RelativeToolTip": "Proyecto\\CambiarContrase\u00F1a.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T19:09:22.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "CambiarContrase\u00F1a.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\CambiarContrase\u00F1a.cs",
-              "RelativeDocumentMoniker": "Proyecto\\CambiarContrase\u00F1a.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\CambiarContrase\u00F1a.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto\\CambiarContrase\u00F1a.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T18:14:25.608Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 44,
               "Title": "RecuperarContrase\u00F1a.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\RecuperarContrase\u00F1a.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\RecuperarContrase\u00F1a.cs",
               "RelativeDocumentMoniker": "Proyecto\\RecuperarContrase\u00F1a.cs",
               "ToolTip": "C:\\Users\\jonin\\Escritorio\\Trabajo aca\\Proyecto-C-\\Proyecto\\Proyecto\\RecuperarContrase\u00F1a.cs [Dise\u00F1o]",
               "RelativeToolTip": "..\\..\\..\\..\\..\\jonin\\Escritorio\\Trabajo aca\\Proyecto-C-\\Proyecto\\Proyecto\\RecuperarContrase\u00F1a.cs [Dise\u00F1o]",
@@ -784,7 +759,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 45,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -796,11 +771,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 46,
               "Title": "Register.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Register.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Register.Designer.cs",
               "RelativeDocumentMoniker": "Proyecto\\Register.Designer.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Register.Designer.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Register.Designer.cs",
               "RelativeToolTip": "Proyecto\\Register.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -809,11 +784,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 47,
               "Title": "PersonalLogica.cs",
-              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\PersonalLogica.cs",
+              "DocumentMoniker": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\PersonalLogica.cs",
               "RelativeDocumentMoniker": "Logica\\PersonalLogica.cs",
-              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\PersonalLogica.cs",
+              "ToolTip": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\PersonalLogica.cs",
               "RelativeToolTip": "Logica\\PersonalLogica.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Vista.csproj": {}
+    "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Vista.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\Datos.csproj": {
+    "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\Datos.csproj",
+        "projectUniqueName": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\Datos.csproj",
         "projectName": "Datos",
-        "projectPath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\Datos.csproj",
+        "projectPath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\Datos.csproj",
         "packagesPath": "C:\\Users\\Mercedes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\obj\\",
+        "outputPath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Sesion\\Sesion.csproj": {
-                "projectPath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Sesion\\Sesion.csproj"
+              "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Sesion\\Sesion.csproj": {
+                "projectPath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Sesion\\Sesion.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\Logica.csproj": {
+    "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\Logica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\Logica.csproj",
+        "projectUniqueName": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\Logica.csproj",
         "projectName": "Logica",
-        "projectPath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\Logica.csproj",
+        "projectPath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\Logica.csproj",
         "packagesPath": "C:\\Users\\Mercedes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\obj\\",
+        "outputPath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -111,14 +111,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\Datos.csproj": {
-                "projectPath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Datos\\Datos.csproj"
+              "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\Datos.csproj": {
+                "projectPath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Datos\\Datos.csproj"
               },
-              "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Servicios\\Servicios.csproj": {
-                "projectPath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Servicios\\Servicios.csproj"
+              "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Servicios\\Servicios.csproj": {
+                "projectPath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Servicios\\Servicios.csproj"
               },
-              "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Sesion\\Sesion.csproj": {
-                "projectPath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Sesion\\Sesion.csproj"
+              "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Sesion\\Sesion.csproj": {
+                "projectPath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Sesion\\Sesion.csproj"
               }
             }
           }
@@ -158,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Vista.csproj": {
+    "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Vista.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Vista.csproj",
+        "projectUniqueName": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Vista.csproj",
         "projectName": "Vista",
-        "projectPath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Vista.csproj",
+        "projectPath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\Vista.csproj",
         "packagesPath": "C:\\Users\\Mercedes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\obj\\",
+        "outputPath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Proyecto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -186,14 +186,14 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\Logica.csproj": {
-                "projectPath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Logica\\Logica.csproj"
+              "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\Logica.csproj": {
+                "projectPath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Logica\\Logica.csproj"
               },
-              "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Servicios\\Servicios.csproj": {
-                "projectPath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Servicios\\Servicios.csproj"
+              "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Servicios\\Servicios.csproj": {
+                "projectPath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Servicios\\Servicios.csproj"
               },
-              "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Sesion\\Sesion.csproj": {
-                "projectPath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Sesion\\Sesion.csproj"
+              "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Sesion\\Sesion.csproj": {
+                "projectPath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Sesion\\Sesion.csproj"
               }
             }
           }
@@ -236,14 +236,14 @@
         }
       }
     },
-    "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Servicios\\Servicios.csproj": {
+    "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Servicios\\Servicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Servicios\\Servicios.csproj",
+        "projectUniqueName": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Servicios\\Servicios.csproj",
         "projectName": "Servicios",
-        "projectPath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Servicios\\Servicios.csproj",
+        "projectPath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Servicios\\Servicios.csproj",
         "packagesPath": "C:\\Users\\Mercedes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Servicios\\obj\\",
+        "outputPath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Servicios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -301,14 +301,14 @@
         }
       }
     },
-    "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Sesion\\Sesion.csproj": {
+    "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Sesion\\Sesion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Sesion\\Sesion.csproj",
+        "projectUniqueName": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Sesion\\Sesion.csproj",
         "projectName": "Sesion",
-        "projectPath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Sesion\\Sesion.csproj",
+        "projectPath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Sesion\\Sesion.csproj",
         "packagesPath": "C:\\Users\\Mercedes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mercedes\\Desktop\\Nueva carpeta (2)\\Gestion-de-Usuarios\\Proyecto\\Sesion\\obj\\",
+        "outputPath": "C:\\Users\\Mercedes\\Desktop\\Repo\\Gestion-de-Usuarios\\Proyecto\\Sesion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,23 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Datos.CambiarContraseña;
+﻿using Datos;
 
 namespace Logica
 {
-    public class CambiarContraseña
+    public class L_CambiarContra
     {
-        private readonly SP_CambiarContraseña _cambiarContraseña;
-        public CambiarContraseña()
+        private readonly D_CambiarContra _datos;
+
+        public L_CambiarContra()
         {
-            _cambiarContraseña = new SP_CambiarContraseña();
+            _datos = new D_CambiarContra();
         }
-        public string CambiarContrasenaUsuario(int idUsuario, string nuevaPass)
+
+        public string CambiarContra(int idUsuario, string nuevaPass)
         {
-            return _cambiarContraseña.CambiarContrasena(idUsuario, nuevaPass);
+            return _datos.CambiarContra(idUsuario, nuevaPass);
         }
     }
 }
-
