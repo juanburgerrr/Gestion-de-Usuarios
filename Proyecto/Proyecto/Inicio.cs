@@ -8,8 +8,9 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Logica;       // Para la clase UsuarioLogica
-using Sesion.Usuario;       // CAMBIO CLAVE: Nuevo using para la capa de Sesión
+using Logica; 
+using Sesion.Usuario;  
+using Logica.Sesion;
 
 namespace Proyecto
 {
@@ -37,71 +38,66 @@ namespace Proyecto
         }
 
         // Método para cargar la información del usuario en los labels
-        private void CargarInfoUsuario()
+               private void CargarInfoUsuario()
         {
-            // Obtener los datos directamente de la sesión
-            if (SesionUsuario.EstaLogueado()) // Usando Sesion.SesionUsuario
+            var logicaSesion = new L_Sesion();
+            var sesion = logicaSesion.ObtenerSesionActual();
+
+            if (sesion != null)
             {
-                lblNombreUsuario.Text = $"Usuario: {SesionUsuario.NombreCompletoUsuario}";
-                lblRolUsuario.Text = $"Rol: {SesionUsuario.RolUsuarioLogueado}";
-                lblEmailUsuario.Text = $"Email: {SesionUsuario.EmailUsuario}";
+                lblNombreUsuario.Text = $"Usuario: {sesion.Nombre}";
+                lblRolUsuario.Text = $"Rol: {sesion.Rol}";
+                lblEmailUsuario.Text = $"Email: {sesion.Correo}";
             }
             else
             {
                 lblNombreUsuario.Text = "Usuario: No encontrado";
                 lblRolUsuario.Text = "Rol: Desconocido";
                 lblEmailUsuario.Text = "Email: Desconocido";
-                MessageBox.Show("No se pudo cargar la información del usuario. Sesión no establecida.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                // Opcional: Redirigir al login si no hay sesión
-                // Login loginForm = new Login();
-                // loginForm.Show();
-                // this.Hide();
+                MessageBox.Show("No se pudo cargar la información del usuario. Sesión no establecida.", 
+                                "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
-        // Método para configurar la visibilidad de los botones según el rol
         private void ConfigurarBotonesPorRol()
         {
-            // Oculta todos los botones por defecto
+            var logicaSesion = new L_Sesion();
+            var sesion = logicaSesion.ObtenerSesionActual();
+
             btnRegister.Visible = false;
             btnRestriccion.Visible = false;
             btnPermiso.Visible = false;
-            
             btnCambiarContraseña.Visible = false;
             btnCambiarPreguntaSeguridad.Visible = false;
-            // btnCerrarSesion.Visible = true; // El botón de cerrar sesión siempre debería estar visible
 
-            // Usa el rol directamente de la sesión
-            switch (SesionUsuario.RolUsuarioLogueado) // Usando Sesion.SesionUsuario
+            if (sesion == null) return;
+
+            switch (sesion.Rol)
             {
-                case "Administrador": // O el nombre exacto de tu rol de administrador
+                case "Administrador":
                     btnRegister.Visible = true;
                     btnRestriccion.Visible = true;
                     btnPermiso.Visible = true;
-                    
                     btnCambiarContraseña.Visible = true;
                     btnCambiarPreguntaSeguridad.Visible = true;
                     break;
-                case "Personal": // O el nombre exacto de tu rol de personal
+                case "Personal":
                     btnCambiarContraseña.Visible = true;
                     btnCambiarPreguntaSeguridad.Visible = true;
-                    // Los demás botones permanecen ocultos
-                    break;
-                default:
-                    // Si el rol es desconocido o no está configurado, todos los botones permanecen ocultos
                     break;
             }
         }
 
-        // ... (Resto de tus métodos de diseño y navegación) ...
-
         private void btnCerrarSesion_Click(object sender, EventArgs e)
         {
-            SesionUsuario.LimpiarSesion(); // Usando Sesion.SesionUsuario
+            var logicaSesion = new L_Sesion();
+            logicaSesion.CerrarSesion();
+
             this.Hide();
             Login login = new Login();
             login.Show();
         }
+
 
         // Otros métodos de diseño, etc.
         private Color SelectThemeColor()

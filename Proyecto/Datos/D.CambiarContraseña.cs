@@ -2,7 +2,7 @@
 using Microsoft.Data.SqlClient;
 using Datos.Conexion;
 
-namespace Datos
+namespace Datos.CambiarContra
 {
     public class D_CambiarContra
     {
@@ -10,13 +10,13 @@ namespace Datos
 
         public D_CambiarContra()
         {
-            conexion = new Conexion();
+            conexion = new Conexion.Conexion();
         }
 
         public string CambiarContra(int idUsuario, string nuevaPass)
         {
             string estado = string.Empty;
-            SqlConnection conn = _conexion.AbrirConexion();
+            SqlConnection conn = conexion.AbrirConexion();
 
             try
             {
@@ -36,7 +36,7 @@ namespace Datos
             }
             finally
             {
-                _conexion.CerrarConexion();
+                conexion.CerrarConexion();
             }
 
             return estado;

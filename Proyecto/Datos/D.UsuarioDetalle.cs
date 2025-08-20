@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Data;
 using Microsoft.Data.SqlClient;
-using Datos.UsuarioDTO;
 using Datos.Conexion;
+using Datos.DTO;
 
 namespace Datos.Usuario
 {
@@ -15,9 +15,9 @@ namespace Datos.Usuario
         /// </summary>  
         /// <param name="idUsuario">El ID del usuario a buscar.</param>  
         /// <returns>Un objeto UsuarioDTO con los detalles, o null si no se encuentra.</returns>  
-        public Datos.UsuarioDTO.UsuarioDTO? ObtenerDetallesUsuarioPorId(int idUsuario)
+        public UsuarioDTO? ObtenerDetallesUsuarioPorId(int idUsuario)
         {
-            Datos.UsuarioDTO.UsuarioDTO? usuarioDetalle = null;
+            UsuarioDTO? usuarioDetalle = null;
             SqlConnection con = null;
 
             try
@@ -34,7 +34,7 @@ namespace Datos.Usuario
                         {
                             Console.WriteLine($"[DEBUG] Se encontró usuario con Id: {idUsuario}");
 
-                            usuarioDetalle = new Datos.UsuarioDTO.UsuarioDTO()
+                            usuarioDetalle = new UsuarioDTO()
                             {
                                 Nombre = lector["Nombre"]?.ToString() ?? string.Empty,
                                 Apellido = lector["Apellido"]?.ToString() ?? string.Empty,

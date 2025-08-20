@@ -1,6 +1,6 @@
-﻿using Datos.UsuarioDTO;
-using Datos.Usuario;
+﻿using Datos.Usuario;
 using System;
+using Datos.DTO;
 
 namespace Logica.Usuario
 {

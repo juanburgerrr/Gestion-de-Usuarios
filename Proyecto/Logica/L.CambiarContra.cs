@@ -1,6 +1,7 @@
-﻿using Datos;
+﻿using Datos.CambiarContra;
+using Servicios.Hash256;
 
-namespace Logica
+namespace Logica.CambiarContra
 {
     public class L_CambiarContra
     {
@@ -13,7 +14,9 @@ namespace Logica
 
         public string CambiarContra(int idUsuario, string nuevaPass)
         {
-            return _datos.CambiarContra(idUsuario, nuevaPass);
+            string passHash = Hashing.HashUserPassword(idUsuario.ToString(), nuevaPass);
+
+            return _datos.CambiarContra(idUsuario, passHash);
         }
     }
 }

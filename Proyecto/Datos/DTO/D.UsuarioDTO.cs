@@ -1,7 +1,7 @@
-﻿    using System;
-    using System.Data;
+﻿using System;
+using System.Data;
 
-    namespace Datos.UsuarioDTO
+namespace Datos.DTO
     {
         public class UsuarioDTO
         {

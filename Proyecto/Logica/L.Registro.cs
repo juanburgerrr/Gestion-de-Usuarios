@@ -1,7 +1,8 @@
 ﻿using System;
 using Datos.Registro;
-using Datos.UsuarioDTO;
 using Datos.Legajo;
+using Datos.DTO;
+using Servicios.Hash256;
 
 namespace Logica.Registro
 {
@@ -39,7 +40,6 @@ namespace Logica.Registro
         {
             try
             {
-                // Crear y poblar el DTO dentro de la lógica (intermediario)
                 UsuarioDTO dto = new UsuarioDTO
                 {
                     Nombre = nombre,
@@ -62,10 +62,11 @@ namespace Logica.Registro
                     Rol = rolDescripcion
                 };
 
-                // Obtener el legajo y asignarlo al DTO
                 dto.Legajo = _legajo.ObtenerSiguienteLegajo();
 
-                // Llamar al método del SP con parámetros individuales
+
+                string passHash = Hashing.HashUserPassword(dto.NombreUsuario, dto.Password);
+
                 return _registro.RegistrarPersonalYUsuario(
                     dto.Legajo,
                     dto.Nombre,
@@ -84,7 +85,7 @@ namespace Logica.Registro
                     dto.Piso,
                     dto.Depto,
                     dto.NombreUsuario,
-                    dto.Password,
+                    passHash, 
                     dto.Rol
                 );
             }

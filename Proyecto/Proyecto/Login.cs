@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Logica.Login;    // Para SesionUsuario y UsuarioLogica
+using Logica.Login;    
 using Logica.Usuario;
 using Sesion.Usuario; 
 using static System.Runtime.InteropServices.JavaScript.JSType;
@@ -59,56 +59,42 @@ namespace Proyecto
 
         private void btnIniciarSesion_Click(object sender, EventArgs e)
         {
-            LLogin loginLogica = new LLogin(); 
-            (string? resultadoEstado, int? idUsuario) = loginLogica.Validar(textBox1.Text, textBox2.Text);
+            LLogin loginLogica = new LLogin();
+            var (estado, idUsuario, nombre, apellido, correo, rol) = loginLogica.Validar(textBox1.Text, textBox2.Text);
 
             if (idUsuario.HasValue)
             {
-                LUsuario usuario = new LUsuario();
-
-                var usuarioDetalles = usuario.ObtenerUsuario(idUsuario.Value);
-
-                if (usuarioDetalles != null)
-                {
-                    SesionUsuario.EstablecerSesion(
-                        idUsuario.Value,
-                        usuarioDetalles.Rol,
-                        $"{usuarioDetalles.Nombre} {usuarioDetalles.Apellido}",
-                        usuarioDetalles.Correo
-                    );
-                }   
-                else
-                {
-                    MessageBox.Show("Error interno: No se pudieron cargar los detalles del usuario.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    return;
-                }
+                SesionUsuario.IniciarSesion(
+                    idUsuario.Value,
+                    rol,
+                    $"{nombre} {apellido}",
+                    correo
+                );
             }
 
-            switch (resultadoEstado)
+            switch (estado)
             {
                 case "OK":
-                    MessageBox.Show("Bienvenido", "Inicio de Sesión Exitoso", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     new Inicio().Show();
                     this.Hide();
                     break;
-
                 case "CAMBIO_OBLIGATORIO":
                 case "VENCIDA":
-                    MessageBox.Show("Debe cambiar la contraseña.", "Cambio Requerido", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                    new LoginPrimeraVez().Show();
+                    new LoginPrimeraVez(idUsuario.Value).Show();
                     this.Hide();
                     break;
 
                 case "BLOQUEADO":
-                    MessageBox.Show("Su usuario ha sido bloqueado. Contacte al administrador.", "Usuario Bloqueado", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Usuario bloqueado.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     break;
-
                 default:
-                    MessageBox.Show($"Estado no reconocido: {resultadoEstado}", "Error de Autenticación", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Error de autenticación.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     break;
-
             }
         }
+
+
+
 
 
         private void linkRecuperarContraseña_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)

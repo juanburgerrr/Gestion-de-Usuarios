@@ -1,32 +1,31 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using Logica.Usuario;
-using Logica.Login; // Para la clase CambiarContraseña y SesionUsuario
-using Sesion.Usuario;
 using System.Text.RegularExpressions;
+using System.Windows.Forms;
+using Logica.CambiarContra;
+using Logica.Usuario;
+using Sesion.Usuario;
 
 namespace Proyecto
 {
     public partial class LoginPrimeraVez : Form
     {
-        // El _idUsuario ya no necesita pasarse como parámetro al constructor
-        // Se obtendrá desde SesionUsuario.IdUsuarioLogueado
-        private Logica.CambiarContraseña _cambiarContrasenaLogica;
+        private readonly L_CambiarContra cambiarcontra;
+        private readonly int _idUsuario; // ID del usuario que se pasa desde Login
 
-        // Constructor sin parámetros, ya que el ID viene de la sesión
-        public LoginPrimeraVez()
+        // Constructor recibe el ID del usuario directamente
+        public LoginPrimeraVez(int idUsuario)
         {
             InitializeComponent();
-            _cambiarContrasenaLogica = new Logica.CambiarContraseña();
+            _idUsuario = idUsuario;
+
+            cambiarcontra = new L_CambiarContra();
+
             txtContraseña.UseSystemPasswordChar = true;
             txtContraseñaRepetida.UseSystemPasswordChar = true;
+
+            txtContraseña.TextChanged += txtContraseña_TextChanged;
         }
 
         private void btnClose_Click(object sender, EventArgs e)
@@ -41,19 +40,6 @@ namespace Proyecto
 
         private void btnGuardarCambios_Click(object sender, EventArgs e)
         {
-            // Obtener el ID del usuario desde la sesión
-            int idUsuario = SesionUsuario.IdUsuarioLogueado;
-
-            if (idUsuario == 0) // Si por alguna razón no hay ID en la sesión
-            {
-                MessageBox.Show("Sesión de usuario no encontrada. Por favor, inicie sesión nuevamente.", "Error de Sesión", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                // Opcional: Redirigir al login
-                Login loginForm = new Login();
-                loginForm.Show();
-                this.Hide();
-                return;
-            }
-
             string nuevaContrasena = txtContraseña.Text;
             string confirmarContrasena = txtContraseñaRepetida.Text;
 
@@ -69,34 +55,33 @@ namespace Proyecto
                 return;
             }
 
-
             if (!EsContrasenaSegura(nuevaContrasena))
             {
                 MessageBox.Show("La contraseña debe tener al menos 8 caracteres, una mayúscula, una minúscula, un número y un carácter especial.", "Contraseña Débil", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
-            string resultado = _cambiarContrasenaLogica.CambiarContrasenaUsuario(idUsuario, nuevaContrasena);
+            string resultado = cambiarcontra.CambiarContra(_idUsuario, nuevaContrasena);
 
             if (resultado == "CAMBIO_OK")
             {
                 MessageBox.Show("Contraseña cambiada exitosamente. Ahora puede iniciar sesión con su nueva contraseña.", "Cambio Exitoso", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
+                // Aquí iniciamos sesión correctamente
                 LUsuario usuarioLogica = new LUsuario();
-                var usuarioDetalles = usuarioLogica.ObtenerUsuario(idUsuario);
+                var usuarioDetalles = usuarioLogica.ObtenerUsuario(_idUsuario);
 
                 if (usuarioDetalles != null)
                 {
-                    SesionUsuario.EstablecerSesion(
-                        idUsuario,
+                    SesionUsuario.IniciarSesion(
+                        _idUsuario,
                         usuarioDetalles.Rol,
                         $"{usuarioDetalles.Nombre} {usuarioDetalles.Apellido}",
                         usuarioDetalles.Correo
                     );
                 }
 
-                Inicio formInicio = new Inicio(); 
-                formInicio.Show();
+                new Inicio().Show();
                 this.Hide();
             }
             else if (resultado == "ERROR_DATOS_PERSONALES")
@@ -115,10 +100,10 @@ namespace Proyecto
 
         private bool EsContrasenaSegura(string contrasena)
         {
-            // Al menos 8 caracteres, una mayúscula, una minúscula, un número y un símbolo
             var regex = new Regex(@"^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[\W_]).{8,}$");
             return regex.IsMatch(contrasena);
         }
+
         private void txtContraseña_TextChanged(object sender, EventArgs e)
         {
             string contraseña = txtContraseña.Text;
@@ -128,7 +113,6 @@ namespace Proyecto
             bool tieneEspecial = contraseña.Any(ch => !char.IsLetterOrDigit(ch));
             bool longitudCorrecta = contraseña.Length >= 8;
 
-            // Cambiar texto y color según se cumpla o no cada condición
             lblMayuscula.Text = (tieneMayuscula ? "✅" : "❌") + " Al menos una mayúscula";
             lblNumero.Text = (tieneNumero ? "✅" : "❌") + " Al menos un número";
             lblEspecial.Text = (tieneEspecial ? "✅" : "❌") + " Al menos un carácter especial";

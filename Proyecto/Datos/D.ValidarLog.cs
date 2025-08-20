@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Data;
 using Microsoft.Data.SqlClient;
+using Datos.SesionDTO;
 
 namespace Datos.Login
 {
@@ -8,49 +9,41 @@ namespace Datos.Login
     {
         private Conexion.Conexion conexion = new Conexion.Conexion();
 
-        public (string? estado, int? idUsuario) ValidarLogin(string usuario, string password)
+        public (string estado, SesionDTO.SesionDTO? usuario) ValidarLogin(string usuario, string passwordHash)
         {
-            string? estado = null;
-            int? idUsuario = null;
-            SqlConnection con = null;
+            string estado = "ERROR";
+            SesionDTO.SesionDTO? dto = null;
 
-            try
+            using SqlConnection con = conexion.AbrirConexion();
+            using SqlCommand cmd = new SqlCommand("SP_ValidarLogin", con)
             {
-                con = conexion.AbrirConexion();
+                CommandType = CommandType.StoredProcedure
+            };
 
-                using (SqlCommand comando = new SqlCommand("SP_ValidarLogin", con))
+            cmd.Parameters.AddWithValue("@usuario", usuario);
+            cmd.Parameters.AddWithValue("@password", passwordHash);
+
+            using SqlDataReader lector = cmd.ExecuteReader();
+            if (lector.Read())
+            {
+                // Siempre viene Estado
+                estado = lector["Estado"]?.ToString() ?? "ERROR";
+
+
+                if (estado == "OK" || estado == "CAMBIO_OBLIGATORIO" || estado == "VENCIDA")
                 {
-                    comando.CommandType = CommandType.StoredProcedure;
-                    comando.Parameters.AddWithValue("@usuario", usuario);
-                    comando.Parameters.AddWithValue("@password", password);
-
-                    using (SqlDataReader lector = comando.ExecuteReader())
+                    dto = new SesionDTO.SesionDTO
                     {
-                        if (lector.Read())
-                        {
-                            estado = lector["Estado"]?.ToString();
-
-                            if (lector.FieldCount > 1 && lector["Id_Usuario"] != DBNull.Value)
-                            {
-                                idUsuario = Convert.ToInt32(lector["Id_Usuario"]);
-                            }
-                        }
-                    }
+                        Id = lector["Id_Usuario"] != DBNull.Value ? Convert.ToInt32(lector["Id_Usuario"]) : 0,
+                        Nombre = lector["Nombre"]?.ToString() ?? string.Empty,
+                        Apellido = lector["Apellido"]?.ToString() ?? string.Empty,
+                        Correo = lector["Correo"]?.ToString() ?? string.Empty,
+                        Rol = lector["Rol"]?.ToString() ?? string.Empty
+                    };
                 }
             }
-            catch (Exception ex)
-            {
-                Console.WriteLine("Error en ValidarLogin: " + ex.Message);
-                estado = "ERROR";
-            }
-            finally
-            {
-                if (con != null && con.State == ConnectionState.Open)
-                    con.Close();
-            }
 
-
-            return (estado, idUsuario);
+            return (estado, dto);
         }
     }
 }

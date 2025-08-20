@@ -6,7 +6,7 @@ namespace Datos.Conexion
     {
         private SqlConnection? conexion;
 
-        private string cadenaConexion = "Data Source=DESKTOP-KRHC4II\\;Initial Catalog=sistema;Integrated Security=True;TrustServerCertificate=True";
+        private string cadenaConexion = "Data Source=DESKTOP-CPSJARD\\;Initial Catalog=sistema;Integrated Security=True;TrustServerCertificate=True";
 
         public SqlConnection AbrirConexion()
         {

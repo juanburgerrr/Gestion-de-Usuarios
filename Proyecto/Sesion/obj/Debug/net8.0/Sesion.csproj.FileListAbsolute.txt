@@ -212,3 +212,15 @@ C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Sesion\
 C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Sesion\obj\Debug\net8.0\refint\Sesion.dll
 C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Sesion\obj\Debug\net8.0\Sesion.pdb
 C:\Users\Mercedes\Desktop\Nueva carpeta (2)\Gestion-de-Usuarios\Proyecto\Sesion\obj\Debug\net8.0\ref\Sesion.dll
+C:\Users\juanf\Desktop\pppp\Gestion-de-Usuarios\Proyecto\Sesion\bin\Debug\net8.0\Sesion.deps.json
+C:\Users\juanf\Desktop\pppp\Gestion-de-Usuarios\Proyecto\Sesion\bin\Debug\net8.0\Sesion.dll
+C:\Users\juanf\Desktop\pppp\Gestion-de-Usuarios\Proyecto\Sesion\bin\Debug\net8.0\Sesion.pdb
+C:\Users\juanf\Desktop\pppp\Gestion-de-Usuarios\Proyecto\Sesion\obj\Debug\net8.0\Sesion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanf\Desktop\pppp\Gestion-de-Usuarios\Proyecto\Sesion\obj\Debug\net8.0\Sesion.AssemblyInfoInputs.cache
+C:\Users\juanf\Desktop\pppp\Gestion-de-Usuarios\Proyecto\Sesion\obj\Debug\net8.0\Sesion.AssemblyInfo.cs
+C:\Users\juanf\Desktop\pppp\Gestion-de-Usuarios\Proyecto\Sesion\obj\Debug\net8.0\Sesion.csproj.CoreCompileInputs.cache
+C:\Users\juanf\Desktop\pppp\Gestion-de-Usuarios\Proyecto\Sesion\obj\Debug\net8.0\Sesion.sourcelink.json
+C:\Users\juanf\Desktop\pppp\Gestion-de-Usuarios\Proyecto\Sesion\obj\Debug\net8.0\Sesion.dll
+C:\Users\juanf\Desktop\pppp\Gestion-de-Usuarios\Proyecto\Sesion\obj\Debug\net8.0\refint\Sesion.dll
+C:\Users\juanf\Desktop\pppp\Gestion-de-Usuarios\Proyecto\Sesion\obj\Debug\net8.0\Sesion.pdb
+C:\Users\juanf\Desktop\pppp\Gestion-de-Usuarios\Proyecto\Sesion\obj\Debug\net8.0\ref\Sesion.dll

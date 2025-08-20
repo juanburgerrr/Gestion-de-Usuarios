@@ -1,29 +1,31 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Datos.Login;
-using Servicios.Encriptacion;
+﻿using Datos.Login;
+using Servicios.Hash256;
+using Datos.DTO;
 
 namespace Logica.Login
 {
     public class LLogin
     {
-        private readonly Datos.Login.DSP_ValidarLogin _login;
-//        private readonly Encriptacion _encriptar;
+        private readonly DSP_ValidarLogin _login;
+
         public LLogin()
         {
-            _login = new Datos.Login.DSP_ValidarLogin();
-  //          _encriptar = new Encriptacion();
+            _login = new DSP_ValidarLogin();
         }
-        public (string? estado, int? idUsuario) Validar(string usuario, string password)
+
+        public (string estado, int? idUsuario, string nombre, string apellido, string correo, string rol) Validar(string usuario, string password)
         {
+            string passwordHash = Hashing.HashUserPassword(usuario, password);
+            var (estado, usuarioDTO) = _login.ValidarLogin(usuario, passwordHash);
 
-    //        string passwordHash = _encriptar.Encriptar(usuario + password);
-            return _login.ValidarLogin(usuario, password);
+            if (usuarioDTO != null)
+            {
+                return (estado, usuarioDTO.Id, usuarioDTO.Nombre, usuarioDTO.Apellido, usuarioDTO.Correo, usuarioDTO.Rol);
+            }
+            else
+            {
+                return (estado, null, string.Empty, string.Empty, string.Empty, string.Empty);
+            }
         }
-
     }
 }
